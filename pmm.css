@@ -1,0 +1,147 @@
+*{
+   
+    margin: 0%;
+    font-size: "poppins",sans-serif;
+  }
+  .slideee{
+    margin: auto;
+  }
+   
+  header {
+   
+    height: 45px;
+    
+  }
+  
+  * {box-sizing:border-box}
+  
+  /* Slideshow container */
+  .slideshow-container {
+    max-width: none;
+    position: relative;
+    margin: auto;
+  }
+  
+  /* Hide the images by default */
+  
+  
+  /* Next & previous buttons */
+  .prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 20%;
+    width: auto;
+    margin-top: -15px;
+    padding: 16px;
+    color: white;
+    font-weight: 100;
+    font-size: 20px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+  }
+  
+  /* Position the "next button" to the right */
+  .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
+  
+  /* On hover, add a black background color with a little bit see-through */
+  
+  
+  /* Caption text */
+  .text {
+    color: #f2f2f2;
+    font-size: 15px;
+    padding: 8px 12px;
+    position: absolute;
+    bottom: 8px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  /* Number text (1/3 etc) */
+  .numbertext {
+    color: #f2f2f2;
+    font-size: 12px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+  }
+  
+  /* The dots/bullets/indicators */
+  .dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+  }
+  
+  .active, .dot:hover {
+    background-color: #717171;
+  }
+  
+  /* Fading animation */
+  .fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+  }
+  
+  @keyframes fade {
+    from {opacity: .4}
+    to {opacity: 1}
+  }
+  nav{
+    height: 142px;px;
+    background:rgb(0, 170, 255);
+    
+  }
+  
+  .Search input[type=text] {
+    --product-price-color: #e83a45;
+    box-sizing: border-box;
+    margin: 0;
+    font: 14px/18px Arial,Helvetica,sans-serif;
+    color: #333;
+    outline: none;
+    -webkit-appearance: none;
+    background-color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 12px;
+    line-height: 20px;
+    height: 40px;
+    padding: 20px 120px 20px 10px;
+    text-align: left;
+    margin-top: 25px;
+    margin-left: 35%;
+  
+  }
+  
+  .menu ul li{
+   float: left;
+   margin-left: 17px;
+   list-style: none;
+   display: flex;
+   padding: 50px 2px;
+  }
+  
+  
+  a{
+    font: 14px/18px Arial,Helvetica,sans-serif;
+  
+   font-size: 14px;
+   text-decoration: none;
+   color:white;
+  
+  }
+  
+  
+  
+  
+  
