@@ -485,10 +485,11 @@ width: 35%;
 .hang #giahuy2{
   font-size: 45px;
   margin-left: 80px;
+  line-height: 70px;
 }
-.hang ul li .bt2{
+.hang .bt2{
   margin-left: -90px;
-  width: 470px;
+  width: 400px;
   height: 70px;
   border-radius: 43px;
 }
@@ -496,14 +497,93 @@ width: 35%;
 .hang #phantram2{
   width: 470px;
   height: 70px;
-  border-radius: 43px;
+  border-radius: 43px 10px 10px 43px;
   margin-left: -90px;
+  margin-top: -40px;
 }
 .hang #phantram2 img{
   width: 70px;
   margin-right: 230px;
 }
 .hang #consuat2 {
+  font-size: 30px;
+  
+}
+.hang #picsharpinverter{
+  margin-top: 100px;
+  margin-bottom: -60px;
+  width: 90%;
+}
+.hang .sharpinverter{
+  font-size: 45px;
+  line-height: 50px;
+  margin-bottom: 1px;
+
+}
+.hang #giahuy3{
+  font-size: 45px;
+  margin-left: 80px;
+  line-height: 70px;
+}
+.hang .bt3{
+  margin-left: -90px;
+  width: 400px;
+  height: 70px;
+  border-radius: 43px;
+}
+
+.hang #phantram3{
+  width: 470px;
+  height: 70px;
+  border-radius: 43px 10px 10px 43px;
+  margin-left: -90px;
+  margin-top: -40px;
+}
+.hang #phantram3 img{
+  width: 70px;
+  margin-right: 320px;
+  margin-top: -15px;
+}
+.hang #consuat3 {
+  font-size: 30px;
+  
+}
+.hang #picboloathanhsamsung{
+  margin-top: 100px;
+  margin-bottom: -60px;
+  width: 90%;
+}
+.hang .boloathanhsamsung{
+  font-size: 45px;
+  line-height: 50px;
+  margin-bottom: 1px;
+
+}
+.hang #giahuy3{
+  font-size: 45px;
+  margin-left: 80px;
+  line-height: 70px;
+}
+.hang .bt3{
+  margin-left: -90px;
+  width: 400px;
+  height: 70px;
+  border-radius: 43px;
+}
+
+.hang #phantram3{
+  width: 470px;
+  height: 70px;
+  border-radius: 43px 10px 10px 43px;
+  margin-left: -90px;
+  margin-top: -40px;
+}
+.hang #phantram3 img{
+  width: 70px;
+  margin-right: 320px;
+  margin-top: -15px;
+}
+.hang #consuat3 {
   font-size: 30px;
   
 }
@@ -1416,6 +1496,17 @@ input :focus{
 }
 
 #giahuy3 span{
+  color: #e83a45;
+  background-color:#f6bbbf ;
+  border-radius: 3px;
+}
+#giahuy7{
+  text-align: center;
+  margin-top: 10px;
+  color: #a4a4a4;
+}
+
+#giahuy7 span{
   color: #e83a45;
   background-color:#f6bbbf ;
   border-radius: 3px;
