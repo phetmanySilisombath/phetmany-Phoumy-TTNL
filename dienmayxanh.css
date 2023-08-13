@@ -6,6 +6,7 @@
 .modalBar{
   display: none;
 }
+ 
 
 }
 
@@ -14,7 +15,11 @@
 
 @media only screen and (max-width: 480px){
 
-
+.guatrang{
+  height: 100%;
+  width: 420%;
+  margin-left: -22%;
+}
  
   .slideee {
     width: 390%;
@@ -24,13 +29,10 @@
 .menu a {
   font-size: 35px;
   margin-left: -120px;
-
-  
-  
 }
 
 .menu li{
-  margin-top: 8%;
+  margin-top: 11%;
   width: 15%;
 }
 
@@ -46,11 +48,7 @@
 
  
 }
-.guatrang{
-  width: 440%;
-  margin-left: -80px;
- 
-}
+
 
 
 
@@ -61,6 +59,16 @@
   
 
  }
+.navv .timkiem .timm{
+  height: 3.5rem;
+  border-radius: 6px;
+  font-size: 30px;
+}
+.navv .button1 i{
+  font-size: 45px;
+  margin-top: 4px;
+  margin-left: -20px;
+}
 
 
 .timkiem input{
@@ -68,10 +76,7 @@
   width: 98%;
 
 }
-.timm{
-  height: 220px;
 
-}
 
 .timkiem button{
   margin-left: 350%;
@@ -80,7 +85,6 @@
 
 #danhmuc{
   display: none;
-
 }
 .Search a{
   margin-top: -5%;
@@ -108,7 +112,7 @@
 
 
 .menutren .giohang{
-  margin-top: -15%;
+  margin-top: -18%;
   font-size: 60px;
   margin-left: 70%;
   width: 130px;
@@ -123,7 +127,7 @@
   width: 250px;
   font-size: 30px;
   margin-left: -40%;
-  margin-top: -14%;
+  margin-top: -16%;
   height: 80px;
   border-right-color: #030a12; 
 
@@ -135,7 +139,7 @@
 
 
 .menu{
-  margin-top: -2%;
+  margin-top: -3%;
 
 }
 
@@ -159,21 +163,42 @@
     margin-top: 50%;
   }
 .picc{
-  height: 500px;
+  height: 800px;
 
 }
   .pic{
    
     width: 390%;
     margin-top: 6%;
+    height: 100rem;
+    background-color: #06489e;
   }
 
   .slideshow-container{
     display: flex;
-    left: 70%;
+    left: 82%;
     width: 1000%;
    
   }
+
+  .slideshow-container .mySlider img {
+    display: block;
+    width: 1150px;
+    margin-top: -100%;
+    margin-left: -80px;
+  }
+
+   .button button{
+    margin-top: -50rem;
+   
+  }
+
+  #huyslider{
+    display: none;
+  }
+
+
+
 .button {
   display: flex;
   margin-left: 25%;
@@ -183,12 +208,38 @@
   }
 
   .box4 {
-    width: 350%;
+    width: 361%;
+    height: 300px;
+   
+   
+   
   }
  .box4 ul{
-  margin-left: 10%;
-  
+  margin-left: 9%;
+  margin-top: -45rem;
+
  }
+.box4 .boxx4 img{
+  width: 200px;
+}
+
+
+.box4 .boxx4 span{
+ margin-top: 200px;
+ margin-left: -160px;
+ font-size: 30px;
+}
+.box4 .boxx4 li{
+  height: 300px;
+  width: 300px;
+  margin-left: -15px;
+  border-radius: 15px;
+  
+}
+
+
+
+
 
  #phantram1 img{
   width: 15%;
@@ -427,170 +478,153 @@ width: 35%;
   }
 .navbar{
    display: block;
-   margin-top: -14%;
+   margin-top: -16%;
    margin-left: 90%;
    font-size: 30px;
    color: white;
    border:none;
    background-color:#4a90e2;
 }
-.hang #picsonyandroid{
-  margin-top: 200px;
-  margin-bottom: 20px;
-}
-.hang .sonyandroid{
-  font-size: 45px;
-  line-height: 50px;
 
-}
-.hang #gia{
-  font-size: 45px;
-  line-height: 50px;
-}
-.hang #giahuy1{
-  font-size: 45px;
-  margin-left: 20px;
-  margin-bottom: 20px;
-}
-.hang ul li .bt1{
-  width: 470px;
-  height: 70px;
-  border-radius: 43px;
-
-}
-.hang #phantram1{
-  width: 470px;
-  height: 70px;
-  border-radius: 43px;
-  margin-top: -45px;
-}
-.hang #phantram1 img{
-  width: 70px;
-  margin-right: 230px;
-}
-.hang #consuat1{
-  font-size: 30px;
-}
-
-.hang #picquatsenko{
-  margin-top: 100px;
-  margin-bottom: -70px;
-  width: 90%;
-}
-.hang .quatsenko{
-  font-size: 45px;
-  line-height: 80px;
-
-}
-.hang #giahuy2{
-  font-size: 45px;
-  margin-left: 80px;
-  line-height: 70px;
-}
-.hang .bt2{
-  margin-left: -90px;
-  width: 400px;
-  height: 70px;
-  border-radius: 43px;
-}
-
-.hang #phantram2{
-  width: 470px;
-  height: 70px;
-  border-radius: 43px 10px 10px 43px;
-  margin-left: -90px;
-  margin-top: -40px;
-}
-.hang #phantram2 img{
-  width: 70px;
-  margin-right: 230px;
-}
-.hang #consuat2 {
-  font-size: 30px;
-  
-}
-.hang #picsharpinverter{
-  margin-top: 100px;
-  margin-bottom: -60px;
-  width: 90%;
-}
-.hang .sharpinverter{
-  font-size: 45px;
-  line-height: 50px;
-  margin-bottom: 1px;
-
-}
-.hang #giahuy3{
-  font-size: 45px;
-  margin-left: 80px;
-  line-height: 70px;
-}
-.hang .bt3{
-  margin-left: -90px;
-  width: 400px;
-  height: 70px;
-  border-radius: 43px;
-}
-
-.hang #phantram3{
-  width: 470px;
-  height: 70px;
-  border-radius: 43px 10px 10px 43px;
-  margin-left: -90px;
-  margin-top: -40px;
-}
-.hang #phantram3 img{
-  width: 70px;
-  margin-right: 320px;
-  margin-top: -15px;
-}
-.hang #consuat3 {
-  font-size: 30px;
-  
-}
-.hang #picboloathanhsamsung{
-  margin-top: 100px;
-  margin-bottom: -60px;
-  width: 90%;
-}
-.hang .boloathanhsamsung{
-  font-size: 45px;
-  line-height: 50px;
-  margin-bottom: 1px;
-
-}
-.hang #giahuy3{
-  font-size: 45px;
-  margin-left: 80px;
-  line-height: 70px;
-}
-.hang .bt3{
-  margin-left: -90px;
-  width: 400px;
-  height: 70px;
-  border-radius: 43px;
-}
-
-.hang #phantram3{
-  width: 470px;
-  height: 70px;
-  border-radius: 43px 10px 10px 43px;
-  margin-left: -90px;
-  margin-top: -40px;
-}
-.hang #phantram3 img{
-  width: 70px;
-  margin-right: 320px;
-  margin-top: -15px;
-}
-.hang #consuat3 {
-  font-size: 30px;
-  
-}
 
 /*khac */
+
+.guatrang .hang .sonyandroid {
+  font-size: 40px;
+  margin-top: 300px;
+}
+.guatrang .hang h3 {
+  font-size: 40px;
+  margin-top: 200px;
+}
+
+.guatrang .hang h3 p{
+  margin-top: 20px;
+}
+
+.guatrang .hanghai h3{
+  font-size: 40px;
+  margin-top: 34%;
+  
+}
+
+
+
+.guatrang .hanghai h3 p{
+  margin-top: 20px;
+}
+
+.guatrang #gia{
+  font-size: 50px;
+}
+
+.guatrang #giahuy{
+  font-size: 30px;
+}
+.guatrang #giahuy span{
+  font-size: 30px;
+}
+.guatrang .hang button{
+  display: flex;
+  margin-top: 20%;
+  margin-left: 10%;
+  width: 80%;
+  height: 40px;
+}
+
+.guatrang .hanghai button{
+  display: flex;
+  margin-top: 20%;
+  margin-left: 10%;
+  width: 80%;
+  height: 40px;
+}
+
+
+.guatrang .hang b{
+  width: 150%;
+  font-size: 30px;
+  margin-left: -30PX;
+}
+.guatrang .hanghai b{
+  width: 150%;
+  font-size: 30px;
+  margin-left: -30PX;
+}
+
+.guatrang .hang .tulanh{
+  margin-top: 20%;
+}
+
+.guatrang .hang .quat{
+  margin-top: 25%;
+}
+.guatrang .hang #phantram1{
+  margin-left: -150%;
+  height: 40px;
+  margin-top: 1PX;
+}
+
+.guatrang .hang #phantram2{
+  margin-left: -150%;
+  height: 40px;
+  margin-top: 1PX;
+}
+
+.guatrang .hang #phantram3{
+  margin-left: -150%;
+  height: 40px;
+  margin-top: 3PX;
+}
+.guatrang .hanghai #phantram9{
+  margin-left: -150%;
+  height: 40px;
+  margin-top: 3PX;
+}
+.guatrang .hanghai #phantram10{
+  margin-left: -150%;
+  height: 40px;
+  margin-top: 3PX;
+}
+.guatrang .hanghai #phantram11{
+  margin-left: -150%;
+  height: 40px;
+  margin-top: 3PX;
+}
+.guatrang #fire{
+  width: 50px;
+  margin-top: -30px;
+}
+
+.guatrang .sanpham h1{
+  font-size: 50px;
+}
+
+.guatrang .sanpham img{
+  width: 50px;
+}
+
+.guatrang .sanpham p{
+  font-size: 30px;
+}
+.guatrang .timer span{
+  font-size: 30px;
+  margin-top: -20px;
+}
+.guatrang .timer ul{
+ margin-left: 15%;
+
+}
+.guatrang .timer li{
+  width: 40px;
+ 
+ }
+ 
+
 .guatrang .wapperhanghoa{
-  height: 2500px;
+  height: 5300%;
+  margin-top: -40px;
+  width: 93.2%;
 }
 
 .guatrang  .hang{
@@ -600,16 +634,15 @@ width: 35%;
 }
 .guatrang .hang ul li{
   width: 500px;
-  height: 1000px;
-  border-radius: 13px;
 
 }
 
 .guatrang .hanghai ul li{
   width: 500px;
-
 }
-
+.guatrang .hang li{
+  height: 1000px;
+}
 .guatrang .hanghai li{
   height: 1000px;
 }
@@ -617,38 +650,7 @@ width: 35%;
   margin-top: 10px;
 
 }
-.guatrang .sanpham h1{
-  font-size: 48px;
-  color: yellow;
-  margin-top: -80px;
-  margin-left: 50px;
-}
-.guatrang .sanpham #hours{
-  font-size: 30px;
-  margin-left: 20px;
- 
-}
 
-.guatrang .timer li span{
-  font-size: 20px;
-  margin-left: 1px;
-
-}
-.guatrang .timer li{
-  background-color: black;
-  list-style: none;
-  display: flex;
-  padding: 25px;
-  margin: 5rem 0.1rem;
-  color: #fff;
-  text-transform: uppercase;
-  list-style-type: none;
-   width: 0.5%;
-   height: 0.1px;
-  border-radius: 5px;
-  margin-left: 10px;
-  
-  }
 
 .guatrang .xulyhang .hang{
   overflow: hidden;
@@ -657,43 +659,156 @@ width: 35%;
 
 .guatrang .xulyhang .hanghai{
   overflow: hidden;
-  height: 1110rem  ;
+  height: 60rem  ;
 }
 
 
 /*mau xanh */
 
+
+
 .guatrang .giarequa {
-  height: 1900px;
-  width: 90%;
+  height: 1500px;
+  width: 93.2%;
+  margin-top: -20px;
  
 }
+.guatrang .quatgiarequa{
+  color: #000;
+}
+
+.guatrang #picairinverter{
+  margin-top: 150px;
+  width:30rem;
+}
+
 
 .guatrang .giarequa .haonghoamauxanh ul {
-  height: 1600px;
+
+  height: 1200px;
 }
 
 .guatrang .sanphamgiarequa{
-  width: 310%;
+  width: 230%;
 }
 .guatrang .haonghoamauxanh{
   overflow: hidden;
   width: 98%;
+  
+}
+
+.guatrang .barmauhong{
+  height: 3.5%;
+  width: 70%;
+  margin-top: 30%;
+}
+
+.guatrang #anhmauhong{
+  width: 40px;
+  height: 40px;
+}
+
+.guatrang .airinverter{
+  font-size: 40px;
+}
+
+.guatrang .airinverter p{
+  margin-top: 30px;
+}
+
+.guatrang #onlinegiare{
+  margin-left: -20%;
+  margin-top: 18%;
+  height: 200%;
+}
+
+.guatrang .giaxanh{
+  font-size: 40px;
+  margin-left: -15%;
+} 
+
+.guatrang .airinverter .giaxanh{
+  margin-top: 40px;
+}
+.guatrang .saomauxanh{
+  font-size: 40px;
+  margin-top: 40%;
+}
+
+.guatrang .sanphamgiarequa  .quatgiarequa{
+  margin-top: -6%;
+}
+
+.guatrang .airinverter p{
+  margin-top: 20px;
+}
+
+.guatrang #picnoicomdien{
+  width: 80%;
+}
+
+.guatrang .noicomdien{
+  font-size: 40px;
+  margin-top: 70%;
+}
+.guatrang .noicomdien #onlinegiare{
+   margin-left: -10%;
+}
+.guatrang .noicomdien .giaxanh{
+  margin-top: 9.5%;
+}
+.guatrang .noicomdien p{
+  margin-top: 20px;
 }
 
 
 
 /*mau cam */
+.guatrang #anhhangTV {
+  width: 80%;
+  margin-left: 60px;
+  margin-top: -90rem;
+  
+}
 
+.guatrang #bepPgiare{
+  font-size: 50px;
+}
+.guatrang .giabepgiare{
+  font-size: 50px;
+}
 
-.guatrang .tivigiare{
-  height: 4100%;
+.guatrang .giarequaree{
+  font-size: 30px;
+}
+
+.guatrang .giabepgiare span {
+  font-size: 30px;
+}
+
+.guatrang .dauxaogiare{
+  font-size: 30px;
+}
+
+.guatrang .Pgiare{
+  height: 50px;
+  width: 70%;
+  font-size: 30px;
+}
+
+.guatrang .Pgiare img{
+  width: 10%;
 }
 
 
 
+.guatrang .tivigiare{
+  height: 4100%;
+  width: 93.4%;
+  margin-top: -35px;
+}
+
 .guatrang #anhcanhhang {
- 
  width: 40rem;
  height: 96rem;
 }
@@ -701,30 +816,54 @@ width: 35%;
 
 .guatrang .anhgiare{
   overflow: hidden;
-  height: 100rem;
+  height: 105rem;
 }
 .guatrang .danhmucnoibat img{
   width: 200px;
 
 }
- .guatrang .danhmucnoibat {
+
+
+/*danh muc noi bat */
+
+.guatrang .danhmucnoibat {
   overflow: hidden;
   height: 2000%;
+  width: 93.2%;
 }
 
 
-/*dich vu tien ich */
+.guatrang .danhmucnoibat p{
+  font-size: 43px;
+}
+
+.guatrang .danhmucc{
+  font-size: 40px;
+  width: 104%;
+}
+
+.guatrang .danhmuchang1 img{
+  width: 14rem;
+  margin-top: 60px;
+}
+.guatrang .danhmuchang2 img{
+  width: 14rem;
+  margin-top: 40px;
+}
+
+
+
+/*KHUYENMAICHICOTRENONLINE va tien ich */
 .guatrang .pickhuyenmai{
   margin-left: 6%;
-  width: 86%;
-  height: 500px;
+  width: 93.2%;
+  height: 400px;
   border-radius: 15px;
-
-
 }
 
 .guatrang .dichvutienich{
   height: 700px;
+  width: 94%;
 }
 
 
@@ -758,44 +897,332 @@ width: 35%;
   height: 38%;
 }
 
+.guatrang .muamathecao p{
+   display: flex;
+   font-size: 500px;
+}
+
+.guatrang .KHUYENMAICHICOTRENONLINE {
+  font-size: 40px;
+}
+
+.guatrang .muamathecao .mumathecaoo {
+  font-size: 40px;
+}
+.guatrang .muamathecao .giam2{
+  font-size: 30px;
+}
+
+.guatrang .muamathecao .tu2trolen{
+  font-size: 30px;
+}
+
+
+.guatrang .dichvudongtien .dichvudongtiennn {
+  font-size: 40px;
+}
+.guatrang .dichvudongtien .diennuoc{
+  font-size: 30px;
+}
+
+.guatrang .dichvudongtien .cuocdienthoai{
+  font-size: 30px;
+}
+
+
+
+
+.guatrang .muathegame .muathegamee {
+  font-size: 40px;
+}
+.guatrang .muathegame .mang{
+  font-size: 30px;
+}
+.guatrang .muathegame .giam22{
+  font-size: 30px;
+}
+
+.guatrang .muathegame .giatu{
+  font-size: 30px;
+}
+
+
+
+.guatrang .dichvutantam .dichvutantamm {
+  font-size: 40px;
+}
+.guatrang .dichvutantam .vesinhmaylanh{
+  font-size: 30px;
+}
+
+.guatrang .dichvutantam .duongmay{
+  font-size: 30px;
+}
+
+.guatrang .dichvutienichhh{
+  font-size: 40px;
+}
 
 /*boxGOIYHOMNAY  */
 
 
 .guatrang .boxGOIYHOMNAY ul{
-  height: 300px;
+  height: 380px;
+  width: 320px;
   border-radius: 30px;
+  
+}
+.guatrang .boxGOIYHOMNAY{
+  margin-left: 70px;
 }
 .guatrang .boxGOIYHOMNAY img{
-  height: 100px;
+  width: 200px;
+  height: 200px;
 }
+.guatrang .choban img{
+  margin-left: 18%;
+}
+
+.guatrang .spcaocap img{
+  margin-left: 20%;
+}
+.guatrang .noicomtu img{
+  margin-left: 20%;
+}
+.guatrang .mayeptu img{
+  margin-left: 20%;
+}
+.guatrang .GOIYHOMNAY{
+  font-size: 40px;
+}
+.guatrang .boxGOIYHOMNAY p{
+ font-size: 45px;
+ margin-top: 80%;
+ margin-left: -66%;
+}
+
 
 /*goiyhomnaysanpham1 */
 
 .guatrang .hangcuoicung {
   margin-left: 1%;
+}
 
+.guatrang #picxedaopacific{
+  width: 100%;
+}
+.guatrang #picsharpandroid{
+  width: 100%;
+}
+
+.guatrang #picmaylocnuoc{
+  width: 100%;
+}
+.guatrang #picquatkangaroo{
+  width: 100%;
+}
+.guatrang #picmaysaysinhto{
+  width: 100%;
+}
+.guatrang #picxedapblizzard{
+  width: 100%;
+}
+
+.guatrang #pictoshiba{
+  width: 100%;
+}
+.guatrang #picghemassage{
+  width: 100%;
+}
+
+
+.guatrang .goiyhomnaysanpham1 h3{
+  font-size: 50px;
+}
+
+.guatrang .xedaopacific{
+  width: 100%;
+  height: 10%;
+  margin-left: -15px;
+ 
+}
+
+.guatrang .xedaopacific p{
+  margin-top: 50px;
+  margin-left: -38%;
+
+ 
+}
+
+.guatrang .giahangcuoi{
+  font-size: 55px;
+ 
+}
+
+.guatrang .giahangcuoi span{
+   font-size: 40px;
+   
+}
+.guatrang  .saohangcuoi{
+  font-size: 50px;
+  margin-top: 200px;
+  
+}
+
+.guatrang #baranhcuoi{
+  width: 40px;
+  height: 40px;
+  
+}
+.guatrang #barhangcuoi{
+  margin-top: 40%;
+  width: 50%;
+  height: 3%;
+}
+.guatrang .xedapparcipicgiamsoc{
+  font-size: 30px;
+  margin-left: 20px;
+  margin-top: -30px;
+}
+
+.guatrang .sharpandroid {
+  margin-top: 13%;
+  font-size: 10px;
+  margin-left: -9%;
+}
+
+.guatrang .sharpandroid p {
+  margin-top: 13%;
+  margin-left: -30%;
+  font-size: 55px;
+}
+.guatrang .sharpandroid span {
+  margin-top: 13%;
+  font-size: 40px;
+  margin-left: -40%;
+}
+
+
+.guatrang .maylocnuoc{
+  font-size: 40px;
+  margin-top: 50%;
+  
+}
+.maylocnuoc .giahangcuoi{
+  margin-left: -20%;
+}
+
+.maylocnuoc .giahangcuoi span{
+  font-size: 40px;
+}
+
+.guatrang .maylocnuoc p{
+ margin-top: 30px;
+  
+}
+
+.guatrang .maysaysinhto{
+  font-size: 45px;
+}
+
+.guatrang .maysaysinhto p{
+  font-size: 45px;
+  margin-top: 30px;
+}
+.maysaysinhto .giahangcuoi{
+  margin-left: -40%;
+}
+.guatrang .quatgiarequa{
+  font-size: 30px;
+  color: white;
+  margin-left: 50px;
+  margin-top: -35px;
+}
+
+.guatrang .quatkangaroo{
+  font-size: 45px;
+  margin-top: 60px;
+}
+.guatrang .quatkangaroo p{
+  font-size: 50px;
+  margin-top: 30px;
+}
+.quatkangaroo .giahangcuoi {
+  margin-left: -18%;
+ }
+.quatkangaroo .giahangcuoi span{
+ font-size: 40px;
+}
+
+.guatrang #barhangcuoi2{
+    width: 50%;
+    margin-top: 65%;
+}
+
+.guatrang .xedapblizzard{
+  font-size: 40px;
+  margin-top: 100px;
+}
+
+.guatrang .xedapblizzard .giahangcuoi{
+  font-size: 45px;
+  margin-left: -30%;
+ 
+}
+.guatrang .xedapblizzard p{
+  font-size: 40px;
+  margin-top: 30px;
+  margin-left: -40%;
+}
+
+
+.guatrang .toshiba{
+  font-size: 45px;
+  margin-top: 20%;
+}
+
+.guatrang .toshiba .giahangcuoi{
+margin-left: -30%;
+  margin-top: 5%;
+}
+
+.guatrang .ghemassage{
+  font-size: 45px;
+}
+.guatrang .ghemassage p{
+  margin-top: 40px;
+  margin-left: -40%;
+}
+
+.guatrang .ghemassage .giahangcuoi{
+  margin-top: 10px;
+  margin-left: -20%;
+}
+.guatrang .saohangcuoi2{
+ font-size: 50px;
+ margin-top: 15%;
+  
 }
 
 
 
 
 .guatrang .goiyhomnaysanpham1 ul{
-  width: 43%;
+  width: 46%;
   height: 1500px;
 }
 
 .guatrang .goiyhomnaysanpham2 ul{
-  width: 43%;
+  width: 46%;
   height: 1500px;
 }
 
 .guatrang .goiyhomnaysanpham3 ul{
-  width: 43%;
+  width: 46%;
   height: 1500px;
 }
 .guatrang .goiyhomnaysanpham4 ul{
-  width: 43%;
+  width: 46%;
   height: 1500px;
 }
 
@@ -807,9 +1234,215 @@ width: 35%;
   width: 98%;
 }
 
+
+.guatrang .xemthem {
+  width: 700px;
+  height: 80px;
+  margin-left: 400px;
+  padding: 30px;
+
+  
+}
+.guatrang .xemthem span {
+  font-size: 40px;
+  margin-left: 240px;
+}
+
+ .tuvanchonmua .tuvanchonmua1{
+    width: 1000%;
+    height: 400px;
+
+}
+.tuvanchonmua .tuvanchonmua1 img{
+ width: 400px;
+ height: 240px;
+
+}
+.tuvanchonmua .tuvanchonmua1 h1{
+  font-size: 50px;
+
+}
+.tuvanchonmua .tuvanchonmua1 a{
+  font-size: 30px;
+  margin-left: 550px;
+
+}
+.guatrang .tuvanchonmua2 {
+  display: none;
+}
+
+/*trang cuoi nhat*/
+.guatrang .fttrang{
+    height: 200%;
+  
+}
+.guatrang .timkiemnhieu{
+  display: none;
+}
+.guatrang .fttrangdong1{
+  display: none;
+}
+.guatrang .fttrangdong2{
+  display: none;
+}
+.guatrang .fttrangdong3{
+  margin-left: -34%;
+  margin-top: -2%;
+  font: 35px/18px Arial,Helvetica,sans-serif;
+  height: 30px;
+  font-weight: bold;
+}
+.guatrang .ftfb img{
+  width: 70px;
+  margin-left: 910px;
+}
+.guatrang .ftfb p{
+  font-size: 40px;
+  margin-left: 990px;
+  margin-top: -45px;
+}
+.guatrang .ftyt img{
+  width: 200px;
+  margin-left: 1160px;
+  margin-top: -85px;
+}
+.guatrang .ftyt p{
+  font-size: 40px;
+  margin-left: 1310px;
+  margin-top: -82px;
+}
+.guatrang .ftzalo img{
+  width: 60px;
+  margin-left: 1580px;
+  margin-top: -35px;
+}
+.guatrang .ftzalo p{
+  font-size: 40px;
+  margin-left: 1650px;
+  margin-top: -35px;
+}
+.guatrang .fttrangdong3 ul{
+  height: 50px;
+}
+
+.fttrangdong3 span{
+  font-size: 30px;
+}
+.guatrang .menufb{
+  margin-top: 22%;
+  margin-left: -55%;
+  
 }
 
 
+.guatrang .menufb ul{
+ width: 100%;
+
+}
+.guatrang .fttrang{
+  height: 100%;
+  width: 98%;
+}
+
+.guatrang .Websidecungtapdoanlogohang1{
+  margin-left: -55%;
+}
+.guatrang .menuhong{
+  margin-left: -55%;
+ 
+}
+.guatrang .ftlogo1 img{
+  margin-left: -135%;
+  width: 450px;
+  margin-bottom: -110px;
+ 
+}
+.guatrang .ftlogo2 img{
+  margin-left: -80%;
+  width: 450px;
+  height: 110px;
+
+}
+.guatrang .ftlogo3 img{
+  margin-left: -10%;
+  width:410px;
+  margin-top: -140px;
+ 
+}
+.guatrang .Websidecungtapdoan{
+  font-size: 60PX;
+  margin-left: 100PX;
+}
+.guatrang .menuhong{
+  height: 100px;
+}
+.guatrang .chucuoi{
+  font-size: 30px;
+}
+.guatrang .Websidecungtapdoanlogo1 img{
+ width: 350PX;
+ height: 80PX;
+
+}
+.guatrang .Websidecungtapdoanlogo2 img{
+  width: 350PX;
+  height: 80PX;
+  margin-left: 1200PX;
+  margin-top: -57PX;
+ 
+ }
+ .guatrang .Websidecungtapdoanlogo3 img{
+  width: 350PX;
+  height: 194PX;
+  margin-left: 1460PX;
+  margin-top: -94PX;
+ 
+ }
+ .guatrang .Websidecungtapdoanlogo4 img{
+  width: 300PX;
+  height: 84PX;
+  margin-left: 1715PX;
+  margin-top: -154PX;
+  margin-bottom: 25px;
+ 
+ }
+ .guatrang .Websidecungtapdoanlogo5 img{
+  width: 365PX;
+  height: 84PX;
+  margin-left: 915PX;
+  margin-top: -134PX;
+  margin-bottom: -45px;
+ }
+ .guatrang .Websidecungtapdoanlogo6 img{
+  width: 350PX;
+  height: 84PX;
+  margin-left: 1200PX;
+  margin-top: -14PX;
+  margin-bottom: 25px;
+ }
+ .guatrang .Websidecungtapdoanlogo7 img{
+  width: 300PX;
+  height: 84PX;
+  margin-left: 1475PX;
+  margin-top: -154PX;
+  margin-bottom: 15px;
+ }
+ .guatrang .Websidecungtapdoanlogo8 img{
+  width: 300PX;
+  height: 84PX;
+  margin-left: 1710PX;
+  margin-top: -72PX;
+  margin-bottom: 25px;
+ }
+
+}
+.guatrang .container{
+  display: none;
+}
+.chucuoi{
+  font-size: 15px;
+  width: 85%;
+}
 
 
 
@@ -1463,50 +2096,6 @@ input :focus{
 }
 
 #giahuy span{
-  color: #e83a45;
-  background-color:#f6bbbf ;
-  border-radius: 3px;
-}
-#giahuy1{
-  text-align: center;
-  margin-top: 10px;
-  color: #a4a4a4;
-}
-
-#giahuy1 span{
-  color: #e83a45;
-  background-color:#f6bbbf ;
-  border-radius: 3px;
-}
-#giahuy2{
-  text-align: center;
-  margin-top: 10px;
-  color: #a4a4a4;
-}
-
-#giahuy2 span{
-  color: #e83a45;
-  background-color:#f6bbbf ;
-  border-radius: 3px;
-}
-#giahuy3{
-  text-align: center;
-  margin-top: 10px;
-  color: #a4a4a4;
-}
-
-#giahuy3 span{
-  color: #e83a45;
-  background-color:#f6bbbf ;
-  border-radius: 3px;
-}
-#giahuy7{
-  text-align: center;
-  margin-top: 10px;
-  color: #a4a4a4;
-}
-
-#giahuy7 span{
   color: #e83a45;
   background-color:#f6bbbf ;
   border-radius: 3px;
@@ -2950,7 +3539,11 @@ margin-left: 25px;
                                         }
 
 
-
+.tuvanchonmua1 a{
+  margin-left:280PX; 
+  color: #303030; 
+  font-size: 16PX;
+}
 .tuvanchonmua{
   display: flex;
 }
@@ -2974,7 +3567,7 @@ margin-left: 25px;
   margin-left: -25px;
 }
 .pictuvanchonmua1 img{
-  width: 170px;
+  width: 190px;
   height: 100px;
   border-radius: 10px;
 
@@ -2997,10 +3590,11 @@ margin-left: 25px;
 .pictuvanchonmua2{
   display: flex;
   margin-top: 20px;
-  margin-left: -25px;
+  margin-left: 5px;
 }
 .pictuvanchonmua2 img{
-  width: 270px;
+  margin-top: -10px;
+  width: 280px;
   height: 130px;
 }
 .timkiemnhieu H1{
@@ -3098,6 +3692,7 @@ margin-top: -21px;
 .picfb{
   margin-left: 890px;
   margin-top: 50px;
+  width: 18px;
 }
 .ftyt{
   margin-top: -5px;
@@ -3109,6 +3704,7 @@ margin-top: -30px;
 .picyt{
   margin-left: 990px;
   margin-top: -25px;
+  width: 50px;
 }
 .ftzalo{
   margin-top: -14px;
@@ -3120,6 +3716,7 @@ margin-top: -23px;
 .piczalo{
   margin-left: 1130px;
   margin-top: -30px;
+  width: 20px;
 }
 .ftlogo1 {
   margin-top: 18PX;
@@ -3132,6 +3729,15 @@ margin-top: -23px;
 .ftlogo3 {
   margin-top: -27PX;
   margin-left: 1104PX;
+}
+.ftlogo1 img {
+  width: 85px;
+}
+.ftlogo2 img {
+  width: 125px;
+}
+.ftlogo3 img {
+  width: 75px;
 }
 .Websidecungtapdoan{
   font-weight: lighter;
@@ -3170,6 +3776,30 @@ margin-top: -23px;
 .Websidecungtapdoanlogo8{
   margin-left: 270px;
   margin-top: -28px;
+}
+.Websidecungtapdoanlogo1 IMG{
+  width: 87px; margin-left: 930px;height: 23px;
+}
+.Websidecungtapdoanlogo2 IMG{
+  width: 85px; margin-left: 930px; height: 24px;
+}
+.Websidecungtapdoanlogo3 IMG{
+  width: 85px; margin-left: 930px; 
+}
+.Websidecungtapdoanlogo4 IMG{
+  width: 88px; margin-left: 930px; 
+}
+.Websidecungtapdoanlogo5 IMG{
+  width: 86px; margin-left: 930px; 
+}
+.Websidecungtapdoanlogo6 IMG{
+  width: 87px; margin-left: 930px;
+}
+.Websidecungtapdoanlogo7 IMG{
+  width: 76px; margin-left: 930px; height: 23px;
+}
+.Websidecungtapdoanlogo8 IMG{
+  width: 88px; margin-left: 930px;
 }
 .slide-bar{
   display: none;
