@@ -1038,7 +1038,14 @@ margin-right: 240px;
   margin-top: 40px;
 }
 
-
+.guatrang .danhmuchang1 {
+  margin-left: -5px;
+ 
+}
+.guatrang .danhmuchang2 {
+  margin-left: -5px;
+ 
+}
 
 /*KHUYENMAICHICOTRENONLINE va tien ich */
 .guatrang .pickhuyenmai{
@@ -1514,12 +1521,12 @@ margin-left: -280px;
 }
 
  .tuvanchonmua .tuvanchonmua1{
-    width: 1000%;
+    width: 100%;
     height: 400px;
 
 }
 .tuvanchonmua .tuvanchonmua1 img{
- width: 400px;
+ width: 450px;
  height: 240px;
 
 }
@@ -3545,8 +3552,8 @@ margin-left: 25px;
             #picquatkangaroo{
               width: 190px;  
               margin-left: -28px;
-              margin-top: 0px;
-              margin-bottom: -25px;
+              margin-top: px;
+              margin-bottom: -15px;
               }
               .quatKG50F79{
                 margin-left: -90px;
@@ -3761,7 +3768,7 @@ margin-left: 25px;
                         width: 190px;  
                         margin-left: -28px;
                         margin-top: 75px;
-                        margin-bottom: 35px;
+                        margin-bottom: 18px;
                         }
                         .xedapblizzard{
                           color: #222;
@@ -3791,12 +3798,12 @@ margin-left: 25px;
                         #picapplewatch{
                           width: 190px;  
                           margin-left: -28px;
-                          margin-top: 40px;
+                          margin-top: 10px;
                           margin-bottom: -60px;
                           }
                           .applewatch{
                             color: #222;
-                            margin-left: -64px;
+                            margin-left: -84px;
                             line-height: 25px;
                           }
                           .applewatch span{
@@ -3912,7 +3919,7 @@ margin-left: 25px;
                                 }
                                
                                 .tuvanchonmua1 .tvcmuaa{
-                                  margin-left: 200px;
+                                  margin-left: 270px;
 
                                 }
                                 #picghemassage{
@@ -4078,7 +4085,7 @@ margin-left: 25px;
 }
 .pictuvanchonmua2 img{
   margin-top: -10px;
-  width: 280px;
+  width: 295px;
   height: 130px;
 }
 .timkiemnhieu H1{
