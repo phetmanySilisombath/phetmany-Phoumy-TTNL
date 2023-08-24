@@ -3117,10 +3117,12 @@ margin-bottom: -20px;
 }
 .danhmuchang1{
   display: flex;
+  margin-left: 45px;
+
 
 }
 .danhmuchang1 img{
-  width: 60px;
+  width: 70px;
   margin-top: 20px;
   margin-left: 12px;
   margin-bottom: 5px;
@@ -3131,13 +3133,14 @@ margin-bottom: -20px;
    font-weight: lighter;
 }
 .danhmuchang2 img{
-  width: 60px;
-  margin-top: 30px;
-  margin-left: 12px;
+  width: 70px;
+  margin-top: 15px;
+  margin-left: 18px;
   margin-bottom: 5px;
 }
 .danhmuchang2{
   display: flex;
+  margin-left: 45px;
 
 }
 .danhmuchang2 p{
@@ -3203,7 +3206,7 @@ margin-left: 25px;
   height: 140px;
   border-radius: 10px;
   margin-top: -140px;
-  margin-left: 320px;
+  margin-left: 360px;
 }
 .dichvudongtiennn {
   margin-top: -30px;
@@ -3231,7 +3234,7 @@ margin-left: 25px;
   height: 140px;
   border-radius: 10px;
   margin-top: -140px;
-  margin-left: 610px;
+  margin-left: 690px;
 }
 .muathegame i{
   margin-top: 10px;
@@ -3266,7 +3269,7 @@ margin-left: 25px;
   height: 140px;
   border-radius: 10px;
   margin-top: -140px;
-  margin-left: 900px;
+  margin-left: 1020px;
 }
 
 .dichvutantam i{
@@ -3398,13 +3401,13 @@ margin-left: 25px;
 }
 #picxedaopacific{
   width: 180px;  
-  margin-left: -38px;
+  margin-left: -8px;
   margin-top: 60px;
   margin-bottom: -100px;
   }
   .xedaopacific{
     color: #222;
-    margin-left: -60px;
+    margin-left: -90px;
     line-height: 25px;
   }
   .xedaopacific span{
@@ -3441,12 +3444,12 @@ margin-left: 25px;
   #picsharpandroid{
     width: 200px;  
     margin-left: -28px;
-    margin-top: 40px;
+    margin-top: 54px;
     margin-bottom: -40px;
     }
     .sharpandroid{
       color: #222;
-      margin-left: -50px;
+      margin-left: -75px;
       line-height: 25px;
     }
     .sharpandroid span{
@@ -3457,12 +3460,12 @@ margin-left: 25px;
     #picxedaptaptheduc{
       width: 190px;  
       margin-left: -28px;
-      margin-top: 40px;
+      margin-top: 35px;
       margin-bottom: -90px;
       }
       .xedaptaptheduc{
         color: #222;
-        margin-left: -59px;
+        margin-left: -99px;
         line-height: 25px;
       }
       .xedaptaptheduc span{
@@ -3478,7 +3481,7 @@ margin-left: 25px;
         }
         .vivo{
           color: #222;
-          margin-left: -189px;
+          margin-left: -219px;
           line-height: 25px;
         }
      
@@ -3522,11 +3525,11 @@ margin-left: 25px;
             width: 200px;  
             margin-left: -38px;
             margin-top: 20px;
-            margin-bottom: -50px;
+            margin-bottom: -70px;
             }
             .maylocnuoc{
               color: #222;
-              margin-left: -60px;
+              margin-left: -80px;
               line-height: 25px;
             }
             .maylocnuoc span{
@@ -3542,7 +3545,7 @@ margin-left: 25px;
             #picquatkangaroo{
               width: 190px;  
               margin-left: -28px;
-              margin-top: 20px;
+              margin-top: 0px;
               margin-bottom: -25px;
               }
               .quatKG50F79{
@@ -3550,7 +3553,7 @@ margin-left: 25px;
               }
               .quatkangaroo{
                 color: #222;
-                margin-left: -95px;
+                margin-left: -120px;
                 line-height: 25px;
               }
               .quatkangaroo span{
@@ -3580,11 +3583,11 @@ margin-left: 25px;
                 width: 190px;  
                 margin-left: -28px;
                 margin-top: 50px;
-                margin-bottom: -70px;
+                margin-bottom: -90px;
                 }
                 .NOICHIEN{
                   color: #222;
-                  margin-left: -64px;
+                  margin-left: -84px;
                   line-height: 25px;
                 }
                 .NOICHIEN span{
@@ -3593,15 +3596,15 @@ margin-left: 25px;
                   border-radius: 3px;
                 }
                 #picsamsunggalaxy{
-                  width: 185px;  
+                  width: 175px;  
                   margin-left: -28px;
-                  margin-top: 20px;
+                  margin-top: 15px;
                   margin-bottom: -108px;
                   }
                   .samsunggalaxy{
                     color: #222;
-                    margin-left: -59px;
-                    line-height: 25px;
+                    margin-left: -89px;
+                    line-height: 30px;
                   }
                   .samsunggalaxy span{
                     color: red;
@@ -3616,7 +3619,7 @@ margin-left: 25px;
                     }
                     .maygiataqua{
                       color: #222;
-                      margin-left: -66px;
+                      margin-left: -96px;
                       line-height: 25px;
                     }
                     .aquagiarequa{
@@ -3731,7 +3734,7 @@ margin-left: 25px;
                       }
                       .maysaysinhto{
                         color: #222;
-                        margin-left: -60px;
+                        margin-left: -80px;
                         line-height: 25px;
                         margin-top: 20px;
                         
@@ -3757,12 +3760,12 @@ margin-left: 25px;
                       #picxedapblizzard{
                         width: 190px;  
                         margin-left: -28px;
-                        margin-top: 55px;
+                        margin-top: 75px;
                         margin-bottom: 35px;
                         }
                         .xedapblizzard{
                           color: #222;
-                          margin-left: -45px;
+                          margin-left: -65px;
                           line-height: 25px;
                         }
                         .xedaopacificphantram{
@@ -3788,8 +3791,8 @@ margin-left: 25px;
                         #picapplewatch{
                           width: 190px;  
                           margin-left: -28px;
-                          margin-top: 30px;
-                          margin-bottom: -80px;
+                          margin-top: 40px;
+                          margin-bottom: -60px;
                           }
                           .applewatch{
                             color: #222;
@@ -3805,11 +3808,11 @@ margin-left: 25px;
                             width: 185px;  
                             margin-left: -28px;
                             margin-top: 60px;
-                            margin-bottom: -89px;
+                            margin-bottom: -69px;
                             }
                             .maxbookair{
                               color: #222;
-                              margin-left: -35px;
+                              margin-left: -65px;
                               line-height: 25px;
                             }
                            
@@ -3821,7 +3824,7 @@ margin-left: 25px;
                               }
                               .camera360{
                                 color: #222;
-                                margin-left: -46px;
+                                margin-left: -66px;
                                 line-height: 25px;
                                 margin-bottom: -15px;
                               }
@@ -3898,7 +3901,7 @@ margin-left: 25px;
                                 }
                                 .toshiba{
                                   color: #222;
-                                  margin-left: -45px;
+                                  margin-left: -75px;
                                   line-height: 25px;
 
                                 }
@@ -3915,11 +3918,11 @@ margin-left: 25px;
                                 #picghemassage{
                                   width: 190px;  
                                   margin-left: -28px;
-                                  margin-top: 20px;
+                                  margin-top: 14px;
                                   }
                                   .ghemassage{
                                     color: #222;
-                                    margin-left: -35px;
+                                    margin-left: -65px;
                                     line-height: 25px;
                                   }
                                   .ghemassegaeonline{
@@ -3954,7 +3957,7 @@ margin-left: 25px;
                                     }
                                     .noicomdientu{
                                       color: #222;
-                                      margin-left: -64px;
+                                      margin-left: -94px;
                                       line-height: 25px;
                                     }
                                     .noicomdientu span{
@@ -3965,12 +3968,12 @@ margin-left: 25px;
                                     #picrobothutbui{
                                       width: 185px;  
                                       margin-left: -28px;
-                                      margin-top: 10px;
+                                      margin-top: 5px;
                                       margin-bottom: -103px;
                                       }
                                       .robothutbui{
                                         color: #222;
-                                        margin-left: -40px;
+                                        margin-left: -60px;
                                         line-height: 25px;
                                       }
                                       .robothutbui span{
@@ -3978,16 +3981,16 @@ margin-left: 25px;
                                         background-color:#f6bbbf ;
                                         border-radius: 3px;
                                       }
-                                   
+                               
                                       #piclgtulanh{
-                                        width: 185px;  
+                                        width: 175px;  
                                         margin-left: -28px;
-                                        margin-top: 10px;
-                                        margin-bottom: -8px;
+                                        margin-top: 20px;
+                                        margin-bottom: -10px;
                                         }
                                         .lgtulanh{
                                           color: #222;
-                                          margin-left: -46px;
+                                          margin-left: -66px;
                                           line-height: 25px;
                                         }
                                         .lgtulanh span{
