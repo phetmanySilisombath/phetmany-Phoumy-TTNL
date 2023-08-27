@@ -21,7 +21,14 @@
   margin-left: -22%;
 }
 .guatrang .xemtatca{
-  margin-top: 300px;
+  margin-top: 70px;
+   width: 390px;
+   height: 60px;
+   padding: 18px;
+}
+.guatrang .xemtatca a{
+  font-size: 35px;
+  margin-left: -25px;
 }
  
   .slideee {
@@ -724,6 +731,7 @@ margin-right: 240px;
 }
 .guatrang .quatgiarequa{
   color: #000;
+  font-size: 50px;
 }
 
 .guatrang #picairinverter{
@@ -825,6 +833,8 @@ margin-right: 240px;
 }
 .guatrang .goiyhomnaysanpham2  .quatgiarequa{
   margin-top: -37px;
+  font-size: 35px;
+  margin-left: 27px;
 
 }
 
@@ -842,6 +852,7 @@ margin-right: 240px;
   margin-top: 40px;
 
 }
+
 .guatrang .goiyhomnaysanpham3  #baranhcuoi{
   width: 50px;
   height: 50px;
@@ -851,31 +862,32 @@ margin-right: 240px;
 
 .guatrang .goiyhomnaysanpham3  .quatgiarequa{
   margin-top: -40px;
-
+  font-size: 35px;
+  margin-left: 25px;
 }
 
 .guatrang .goiyhomnaysanpham3  .xedaopacificphantram{
- width: 350px;
+ width: 300px;
  height: 60px;
 
 }
 .guatrang .goiyhomnaysanpham3  .xedapblizzard{
- margin-top: 20%;
- font-size: 45px;
- margin-left: -60px;
+ margin-top: 120px;
+ font-size: 50px;
+ margin-left: -40px;
 
 }
 .guatrang .goiyhomnaysanpham3  .xedappacificonlinegiare{
- margin-right: -60px;
+ margin-right: -0px;
 }
 
 .guatrang .goiyhomnaysanpham3  .giahangcuoi{
- margin-right: -60px;
+ margin-right: -0px;
 }
 
 
 .guatrang .goiyhomnaysanpham4  .toshibaphantram{
-   width: 350px;
+   width: 300px;
   height: 60px;
   margin-top: 40px;
 }
@@ -893,20 +905,23 @@ margin-right: 240px;
 
 
 .guatrang .goiyhomnaysanpham4  .quatgiarequa{
-  margin-top: -40px;
+  margin-top: -38px;
+  font-size: 35px;
 }
 .guatrang .goiyhomnaysanpham4  .toshiba{
   margin-left: -50px;
-  font-size: 48px;
+  font-size: 50px;
 }
 .guatrang .goiyhomnaysanpham4  .ghemassage{
   margin-left: -50px;
-  font-size: 48px;
-  margin-top: 150px;
+  font-size: 50px;
+  margin-top: 75px;
+  line-height: 60px;
 }
 
 .guatrang .goiyhomnaysanpham4  .bahibay{
   margin-top: 10px;
+  
 }
 
 .guatrang .goiyhomnaysanpham4  .ghemassegaeonline{
@@ -914,7 +929,7 @@ margin-right: 240px;
 }
 
 .guatrang .goiyhomnaysanpham4 .toshiba  .giahangcuoi{
-  margin-top: 20%;
+  margin-top: ;
 }
 .guatrang .goiyhomnaysanpham3  .maysaysinhto .giahangcuoi{
   margin-right: 10px;
@@ -1209,7 +1224,7 @@ margin-right: 240px;
 }
 .guatrang #picxedaopacific{
   width: 100%;
-  margin-top: 200PX;
+  margin-top: 185PX;
 }
 .guatrang #picsharpandroid{
   width: 100%;
@@ -1218,6 +1233,7 @@ margin-right: 240px;
 
 .guatrang #picmaylocnuoc{
   width: 100%;
+  margin-top: 90px;
 }
 .guatrang #picquatkangaroo{
   width: 100%;
@@ -1225,10 +1241,13 @@ margin-right: 240px;
 }
 .guatrang #picmaysaysinhto{
   width: 100%;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 .guatrang #picxedapblizzard{
   width: 100%;
-  margin-top: 250px;
+  margin-top: 220px;
+  margin-bottom: 110px;
 }
 .guatrang .xedapblizzard .xedappacificonlinegiare{
   font-size: 50px;
@@ -1242,10 +1261,12 @@ margin-right: 240px;
 }
 .guatrang #pictoshiba{
   width: 100%;
-  margin-top: 70px;
+  margin-top: 90px;
+  margin-bottom: 50px;
 }
 .guatrang #picghemassage{
   width: 100%;
+  margin-top: 90px;
 }
 
 
@@ -1257,17 +1278,14 @@ margin-right: 240px;
   width: 100%;
   height: 10%;
   margin-left: -30px;
-  margin-top: 200PX;
+  margin-top: 210PX;
   line-height: 50px;
   margin-bottom: 190px;
 
  
 }
 .guatrang .goiyhomnaysanpham1 .tragopxedap{
-  font-size: 50px;
-  margin-left: -15px;
-  margin-top: -30px;
-  margin-top: 200px;
+  display: none;
   
 }
 .guatrang .xedaopacific p{
@@ -1340,7 +1358,7 @@ margin-right: 240px;
 
 .guatrang .maylocnuoc{
   font-size: 50px;
-  margin-top: 50%;
+  margin-top: 280px;
   line-height: 70px;
   margin-bottom: 50px;
 }
@@ -1391,14 +1409,14 @@ margin-right: 240px;
   font-size: 50px;
   margin-top: 164px;
   line-height: 65px;
-  margin-left: -170px;
+  margin-left: -200px;
   margin-bottom: 50px;
 }
 .guatrang .quatkangaroo .quatKG50F79{
-  margin-left: -305px;
+  margin-left: -325px;
 }
 .guatrang .quatkangaroo .giahangcuoi{
-  margin-left: -140px;
+  margin-left: -170px;
 }
 .guatrang .quatkangaroo .saohangcuoi{
   margin-left: 0px;
@@ -1427,14 +1445,14 @@ margin-right: 240px;
 }
 
 .guatrang .xedapblizzard{
-  font-size: 50px;
-  margin-top: 100px;
+  font-size: 55px;
+  margin-top: 90px;
 }
 
 
 .guatrang .xedapblizzard p{
-  font-size: 55px;
-  margin-top: 30px;
+  font-size: 60px;
+  margin-top: 20px;
   margin-left: -40%;
 }
 
@@ -1444,7 +1462,7 @@ margin-right: 240px;
 }
 .guatrang .toshiba{
   font-size: 50px;
-  margin-top: 20%;
+  margin-top: 10%;
   line-height: 70px;
 }
 
@@ -2125,10 +2143,10 @@ input :focus{
       justify-content: space-between;
     }
     .prve1{
-      margin-left: 85px;
+      margin-left: 160px;
     }
     .next2{
-      margin-right: -280px;
+      margin-right: -240px;
     }
     
     .button button{
@@ -3096,7 +3114,7 @@ margin-bottom: -20px;
             border-radius: 3px;
           }
 .xemtatca{
-  margin-top: 255px;
+  margin-top: 85px;
   font-size: 15px;
   color:#333;
   font-weight: lighter;
@@ -3109,7 +3127,7 @@ margin-bottom: -20px;
 }
 .xemtatcaa{
   text-align: center;
-  margin-left: 100px;
+  margin-left: 120px;
 }
 .danhmucnoibat{
   background-color: white;
@@ -3413,7 +3431,7 @@ margin-left: 25px;
   width: 180px;  
   margin-left: -8px;
   margin-top: 60px;
-  margin-bottom: -100px;
+  margin-bottom: -80px;
   }
   .xedaopacific{
     color: #222;
@@ -4514,18 +4532,19 @@ margin-top: -23px;
 
 #lefttow{
   display: flex;
-  width: 30px;
-  margin-top: -20%;
+  width: 20px;
+  margin-top: -100px;
   background-color: #ffffffb7;
-  margin-left: -1%;
+  margin-left: -1px;
   color: #000;
+  height: 17px;
 }
 
 #righttow{
   background-color: #ffffffb7;
   color: #000;
-  width: 30px; 
-  margin-top: -150%;
+  width: 20px; 
+  margin-top: -270px;
   margin-left: 98.8%;
 }
 
